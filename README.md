@@ -20,7 +20,7 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 
 ![okesseko's github stats](https://github-readme-stats.vercel.app/api?username=okesseko&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okesseko&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okesseko&layout=compact)
 
 ## 💡 Projects
 - [Shape man - nft project](https://github.com/okesseko/shape-man)
