@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=okesseko&show_icons=true&theme=radical)
 
 <!--
 **okesseko/okesseko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
