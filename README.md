@@ -18,13 +18,13 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 - JavaScript, TypeScript
 - React, Redux, Redux-Saga, React-Router, Next.js, Gatsby.js
 
+![okesseko's github stats](https://github-readme-stats.vercel.app/api?username=okesseko&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okesseko)]
+
 ## 💡 Projects
 - [Shape man - nft project](https://github.com/okesseko/shape-man)
 - [React command line game](https://github.com/okesseko/react-command-line-game)
 
-
-![okesseko's github stats](https://github-readme-stats.vercel.app/api?username=okesseko&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okesseko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Contact me
 - Email: okesseko@gmail.com
