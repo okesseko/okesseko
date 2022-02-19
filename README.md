@@ -1,9 +1,9 @@
 ## 🖐 okesseko (Jimmy)
 
-Hi, I'm okesseko! Or you can call me Jimmy.
-I am a front-end Developer of web. I am familiar with React.
-I love new technology and cool stuff.
-In addition to being a web developer, I am now learning Solidity to write smart contracts and integrate into my website.
+Hi, I'm okesseko! Or you can call me Jimmy.<br/>
+I am a front-end Developer of web. I am familiar with React.<br/>
+I love new technology and cool stuff.<br/>
+In addition to being a web developer, I am now learning Solidity to write smart contracts and integrate into my website.<br/>
 
 ## 🔭 Goals of 2022
 
