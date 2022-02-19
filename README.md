@@ -1,6 +1,6 @@
 ## 🖐 okesseko (Jimmy)
 
-Hi, I'm okesseko! Or you can call me Jimmy.<br/>
+Hi, I'm okesseko! Or you can call me Jimmy.
 Front-end Developer with React.js.<br/>
 Love new technology and cool stuff.<br/>
 In addition to being a web developer, I am now learning Solidity to write smart contracts and integrate into my website.<br/>
