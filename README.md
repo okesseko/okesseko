@@ -8,7 +8,7 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 ## 🔭 Goals of 2022
 
 - [ ] build own profile website
-- [ ] build a nft project & website
+- [x] build a nft project & website [Shape man](https://github.com/okesseko/shape-man)
 - [ ] learn solidity
 
 ## 📚 Langues and Frameworks
