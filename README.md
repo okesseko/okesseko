@@ -25,6 +25,8 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 ## 💡 Projects
 - [Shape man - nft project](https://github.com/okesseko/shape-man)
 - [React command line game](https://github.com/okesseko/react-command-line-game)
+- [Jinstagram](https://github.com/okesseko/social)
+- [Room booking system](https://github.com/okesseko/room-booking-system)
 
 
 ## 🔗 Contact me
