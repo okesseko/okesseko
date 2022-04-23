@@ -7,7 +7,10 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 
 ## 🔭 Goals of 2022
 
-- [ ] build own profile website
+- [x] build own profile website 
+   + [Main website](https://personal-website-dcard.okesseko.tk/) 
+   + [CMS](https://personal-website-cms.okesseko.tk/) 
+   + [Backend server](https://github.com/okesseko/personal-website-backend)
 - [x] build a nft project & website [Shape man](https://github.com/okesseko/shape-man)
 - [ ] learn solidity
 
