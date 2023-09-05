@@ -7,12 +7,7 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 
 ## 🔭 Goals of 2022
 
-- [x] build own profile website 
-   + [Main website](https://personal-website-dcard.okesseko.tk/) 
-   + [CMS](https://personal-website-cms.okesseko.tk/) 
-   + [Backend server](https://github.com/okesseko/personal-website-backend)
-- [x] build a nft project & website [Shape man](https://github.com/okesseko/shape-man)
-- [ ] learn solidity
+- [] build own electron app
 
 ## 📚 Langues and Frameworks
 - HTML5
@@ -20,6 +15,7 @@ In addition to being a web developer, I am now learning Solidity to write smart 
 - Material-ui, Antd, Ionic
 - JavaScript, TypeScript
 - React, Redux, Redux-Saga, React-Router, Next.js, Gatsby.js
+- Vue, vite
 
 ![okesseko's github stats](https://github-readme-stats.vercel.app/api?username=okesseko&show_icons=true&theme=radical)
 <br/>
