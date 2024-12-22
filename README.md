@@ -5,10 +5,11 @@ Front-end Developer with React.js.<br/>
 Love new technology and cool stuff.<br/>
 In addition to being a web developer, I am now learning Solidity to write smart contracts and integrate into my website.<br/>
 
-## 🔭 Goals of 2023
+## 🔭 Goals of 2025
 
-- [ ] build own electron app
-
+- [ ] build a new personal website
+- [ ] learn new skills (new languages)
+      
 ## 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS, SASS
